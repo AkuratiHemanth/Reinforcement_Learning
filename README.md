@@ -44,7 +44,7 @@ Time to code! Implement RL algorithms using Python and OpenAI Gym. Walk through 
 Discover an array of resources for your continuous RL journey. Access recommended textbooks, online courses, research papers, GitHub repositories, and RL conferences. Engage with the thriving RL community.
 
 
-# To know more about Reinforcement learning examples, https://github.com/AkuratiHemanth/Reinforcement_Learning_Bots_Showcase
+## To know more about Reinforcement learning examples, https://github.com/AkuratiHemanth/Reinforcement_Learning_Bots_Showcase
 
 ## Join the Expedition!
 Embark on an exhilarating expedition through the universe of Reinforcement Learning. Whether you're a budding AI enthusiast, an aspiring AI developer, or a tech aficionado, this repository is your compass for mastering the art of intelligent decision-making. Let's pioneer the AI frontier together! 🌟🔍
